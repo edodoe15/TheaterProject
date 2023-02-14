@@ -1,0 +1,11 @@
+﻿  Film.cpp
+  main.cpp
+C:\Users\user\OneDrive\Radna površina\Fakultet\PTF III SEMESTAR\Pozoriste\NewWave\PozoristeNewWave\PozoristeNewWave\main.cpp(113,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive\Radna površina\Fakultet\PTF III SEMESTAR\Pozoriste\NewWave\PozoristeNewWave\PozoristeNewWave\main.cpp(192,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\OneDrive\Radna površina\Fakultet\PTF III SEMESTAR\Pozoriste\NewWave\PozoristeNewWave\PozoristeNewWave\main.cpp(275,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\OneDrive\Radna površina\Fakultet\PTF III SEMESTAR\Pozoriste\NewWave\PozoristeNewWave\PozoristeNewWave\main.cpp(187,9): warning C4101: 'price': unreferenced local variable
+C:\Users\user\OneDrive\Radna površina\Fakultet\PTF III SEMESTAR\Pozoriste\NewWave\PozoristeNewWave\PozoristeNewWave\main.cpp(187,16): warning C4101: 'ulaznica': unreferenced local variable
+  Predstava.cpp
+  Projekcija.cpp
+  Generating Code...
+  PozoristeNewWave.vcxproj -> C:\Users\user\OneDrive\Radna površina\Fakultet\PTF III SEMESTAR\Pozoriste\NewWave\PozoristeNewWave\Debug\PozoristeNewWave.exe
